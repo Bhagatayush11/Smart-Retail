@@ -1,0 +1,78 @@
+{
+  "timestamp": "2025-11-15T18:27:10.770482",
+  "total_tests": 14,
+  "passed_tests": 13,
+  "success_rate": 92.85714285714286,
+  "results": [
+    {
+      "test": "API Root",
+      "status": "PASSED",
+      "details": "Status: 200"
+    },
+    {
+      "test": "Create Product",
+      "status": "PASSED",
+      "details": "Status: 200"
+    },
+    {
+      "test": "Get Products",
+      "status": "PASSED",
+      "details": "Status: 200"
+    },
+    {
+      "test": "Get Single Product",
+      "status": "PASSED",
+      "details": "Status: 200"
+    },
+    {
+      "test": "Update Product",
+      "status": "PASSED",
+      "details": "Status: 200"
+    },
+    {
+      "test": "Simulate Sensor",
+      "status": "FAILED",
+      "details": "Status: 500, Response: Internal Server Error"
+    },
+    {
+      "test": "Get Sensor Readings",
+      "status": "PASSED",
+      "details": "Status: 200"
+    },
+    {
+      "test": "Get Alerts",
+      "status": "PASSED",
+      "details": "Status: 200"
+    },
+    {
+      "test": "Get Unread Alerts",
+      "status": "PASSED",
+      "details": "Status: 200"
+    },
+    {
+      "test": "Get Predictions",
+      "status": "PASSED",
+      "details": "Status: 200"
+    },
+    {
+      "test": "Get Single Prediction",
+      "status": "PASSED",
+      "details": "Status: 200"
+    },
+    {
+      "test": "Dashboard Stats",
+      "status": "PASSED",
+      "details": "Status: 200"
+    },
+    {
+      "test": "Stock Trends",
+      "status": "PASSED",
+      "details": "Status: 200"
+    },
+    {
+      "test": "Delete Product",
+      "status": "PASSED",
+      "details": "Status: 200"
+    }
+  ]
+}
